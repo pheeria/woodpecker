@@ -17,6 +17,10 @@ app.post('/peck', async (req, res) => {
   res.json(deployments)
 })
 
+app.get('salem', (req, res) => {
+  res.send('Sälem, Älem!')
+})
+
 app.listen(port, () => {
   console.log(`Express server listening on port ${port}`)
 })
