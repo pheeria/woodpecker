@@ -1,0 +1,25 @@
+{
+  "name": "woodpecker",
+  "author": {
+    "name": "Olzhas Askar",
+    "email": "olzhas.askar@gmail.com",
+    "url": "https://olzhas.de"
+  },
+  "scripts": {
+    "start": "node pecker"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true,
+    "tabWidth": 2,
+    "bracketSpacing": true
+  }
+}

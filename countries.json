@@ -1,0 +1,98 @@
+[
+  {
+    "brand": "Foodora",
+    "country": "Canada",
+    "b2c": "https://www.foodora.ca",
+    "st": "https://www-st.foodora.ca"
+  },
+  {
+    "brand": "Foodora",
+    "country": "Norway",
+    "b2c": "https://www.foodora.no",
+    "st": "https://www-st.foodora.no"
+  },
+  {
+    "brand": "Foodora",
+    "country": "Finland",
+    "b2c": "https://www.foodora.fi",
+    "st": "https://www-st.foodora.fi"
+  },
+  {
+    "brand": "Foodora",
+    "country": "Sweden",
+    "b2c": "https://www.foodora.se",
+    "st": "https://www-st.foodora.se"
+  },
+  {
+    "brand": "Foodpanda",
+    "country": "Bulgaria",
+    "b2c": "https://www.foodpanda.bg",
+    "st": "https://www-st.foodpanda.bg"
+  },
+  {
+    "brand": "Foodpanda",
+    "country": "Pakistan",
+    "b2c": "https://www.foodpanda.pk",
+    "st": "https://www-st.foodpanda.pk"
+  },
+  {
+    "brand": "Foodpanda",
+    "country": "Bangladesh",
+    "b2c": "https://www.foodpanda.com.bd",
+    "st": "https://www-st.foodpanda.com.bd"
+  },
+  {
+    "brand": "Foodpanda",
+    "country": "Laos",
+    "b2c": "https://www.foodpanda.la",
+    "st": "https://www-st.foodpanda.la"
+  },
+  {
+    "brand": "Foodpanda",
+    "country": "Hong Kong",
+    "b2c": "https://www.foodpanda.hk",
+    "st": "https://www-st.foodpanda.hk"
+  },
+  {
+    "brand": "Foodpanda",
+    "country": "Myanmar",
+    "b2c": "https://www.foodpanda.com.mm",
+    "st": "https://www-st.foodpanda.com.mm"
+  },
+  {
+    "brand": "Foodpanda",
+    "country": "Thailand",
+    "b2c": "https://www.foodpanda.co.th",
+    "st": "https://www-st.foodpanda.co.th"
+  },
+  {
+    "brand": "Foodpanda",
+    "country": "Taiwan",
+    "b2c": "https://www.foodpanda.com.tw",
+    "st": "https://www-st.foodpanda.com.tw"
+  },
+  {
+    "brand": "Foodpanda",
+    "country": "Romania",
+    "b2c": "https://www.foodpanda.ro",
+    "st": "https://www-st.foodpanda.ro"
+  },
+  {
+    "brand": "Foodpanda",
+    "country": "Malaysia",
+    "b2c": "https://www.foodpanda.my",
+    "st": "https://www-st.foodpanda.my"
+  },
+  {
+    "brand": "Foodpanda",
+    "country": "Philippines",
+    "b2c": "https://www.foodpanda.ph",
+    "st": "https://www-st.foodpanda.ph"
+  },
+  {
+    "brand": "Foodpanda",
+    "country": "Cambodia",
+    "b2c": "https://www.foodpanda.com.kh",
+    "st": "https://www-st.foodpanda.com.kh"
+  }
+]
