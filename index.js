@@ -17,7 +17,7 @@ app.post('/peck', async (req, res) => {
   res.json(deployments)
 })
 
-app.get('salem', (req, res) => {
+app.get('/salem', (req, res) => {
   res.send('Sälem, Älem!')
 })
 
