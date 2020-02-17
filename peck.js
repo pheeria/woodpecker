@@ -1,11 +1,13 @@
 const fetch = require('node-fetch')
 const countries = require('./countries')
 
+const CONTROL = process.env.CONTROL
+
 async function peck(domain) {
   let result = { tag: '', commit: '' }
 
   try {
-    const response = await fetch(`${domain}/health/check`, {
+    const response = await fetch(`${domain}/${CONTROL}`, {
       headers: {
         'Content-Type': 'application/json',
         Accept: 'text/html'
